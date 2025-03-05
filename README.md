@@ -27,7 +27,7 @@ Step 5: The app will run on port 5000.
 ```
 localhost:5000
 ```
-fuzzy logic used in sentiment analysis of reviews. Fuzzy logic helps in handling uncertainty and ambiguity in natural language, making it useful for sentiment classification when the sentiment is not strictly positive or negative but falls on a spectrum.
+### fuzzy logic used in sentiment analysis of reviews. Fuzzy logic helps in handling uncertainty and ambiguity in natural language, making it useful for sentiment classification when the sentiment is not strictly positive or negative but falls on a spectrum.
 
 How Fuzzy Logic is Used in Sentiment Analysis
 
