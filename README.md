@@ -2,7 +2,7 @@
 
 Step 1: Clone the repository
 ```
-git clone 
+git clone https://github.com/Akashgaur30/-Amazon-Reviews-Sentiment-Analysis-Using-NLP-and-Fuzzy-Logic.git
 ```
 
 Step 2: Open the cloned repository and create a conda environment. Activate the new environment
